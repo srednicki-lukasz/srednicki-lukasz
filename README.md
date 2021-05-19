@@ -1,4 +1,4 @@
-console.log('Hello World!');
+`Hello World!`
 
 <!---
 srednicki-lukasz/srednicki-lukasz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
