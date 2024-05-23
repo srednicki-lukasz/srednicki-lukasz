@@ -6,8 +6,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=srednicki-lukasz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srednicki-lukasz&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=srednicki-lukasz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srednicki-lukasz&layout=compact&langs_count=8&theme=algolia)
 
 ---
 
